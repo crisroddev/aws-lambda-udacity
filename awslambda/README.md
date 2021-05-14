@@ -4,8 +4,9 @@
 chmod +x resize.sh
 
 # Initialize New Lambda 
-sam init
-cd HelloWorld
-sam build
-sam local invoke
-sam deploy --guided
+1. `sam init`
+2. `cd HelloWorld`
+3. `sam build`
+4. `sam local invoke`
+5. `sam deploy --guided`
+6. 
